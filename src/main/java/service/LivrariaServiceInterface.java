@@ -1,6 +1,6 @@
 package service;
 
-public interface LivrariaServiceInterface {
+public interface LivrariaServiceInterface{
 
  void removerDoEstoque();
 
